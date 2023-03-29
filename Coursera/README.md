@@ -1,6 +1,6 @@
 # Coursera
 
-Esse repositório tem como função armazenar os códigos dos cursos gratuitos realizados na plataforma [Coursera](https://www.coursera.org/)
+Codígos dos cursos realizados na plataforma [Coursera](https://www.coursera.org/)
 
 [![Python](https://img.shields.io/badge/Python-3.11.1-blue)](https://www.python.org/)  
 

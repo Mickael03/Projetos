@@ -1,5 +1,5 @@
 # Descrição
-Repositório com pequenos projetos de ciência de dados.
+Repositório com projetos de ciência de dados e pequenos exercícios de programação.
 
 ## Linguagem
 [![Python](https://img.shields.io/badge/Python-3.11.1-blue)](https://www.python.org/)
@@ -11,7 +11,7 @@ Repositório com pequenos projetos de ciência de dados.
 
 ## Bibliotecas Utilizadas
 
-[![Numpy](https://img.shields.io/badge/Numpy-1.19.5-blue)](https://numpy.org/)
+[![Numpy](https://img.shields.io/badge/Numpy-1.19.5-9cf)](https://numpy.org/)
 
 [![Pandas](https://img.shields.io/badge/Pandas-1.4.3-blue)](https://pandas.pydata.org/)
 
