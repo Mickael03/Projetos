@@ -1,2 +1,5 @@
-#Subrepositório com ideias de projetos
+#Subpastas - Propostas e Arquivos desnecessarios
 Ideias/*
+
+#Subpastas com meta dados do notebook
+.ipynb_checkpoints/*
