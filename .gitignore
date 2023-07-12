@@ -1,6 +1,7 @@
-#Subpastas - Propostas e Arquivos desnecessarios
+#Pasta com propostas
 Ideias/*
 
-#Subpastas com meta dados do notebook
+#Pasta e Subpastas com os metadados do Jupyter Notebook
 .ipynb_checkpoints/*
 Outros/.ipynb_checkpoints/*
+Bots/.ipynb_checkpoints/*
